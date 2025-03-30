@@ -1,17 +1,17 @@
-/* Write your code here: */
+
 h1, h2{
-    color: blueviolet;  /*Group selector*/
+    color: blueviolet;  
 }
 .box > p{
-    color: firebrick;   /* parent child selector*/
+    color: firebrick;  
 }
 .box .list{
-    color: blue;        /* desendent selector*/
+    color: blue;        
 }
 li.done{
-    color: seagreen;    /* chaning selector*/
+    color: seagreen;   
 }
 
 ul p.done{
-    font-size: 0.5rem;   /* Combining selector*/
+    font-size: 0.5rem;   
 }
